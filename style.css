@@ -1,0 +1,22 @@
+/* this is p tag css stlye */
+
+
+
+
+
+
+body {
+    background-color: rgb(189, 179, 243);
+
+} 
+
+
+div{
+
+    background-color: brown;
+    
+}
+p.border{
+    border-style: dotted;
+
+}
